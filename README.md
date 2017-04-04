@@ -1,4 +1,11 @@
-Kurs: Html & Css
+# Vanilla web design
+
+
+Nina Sjöberg, Camilla Tranberg och Cecilia Minami
+
+Kurs: HTML/Css, Nackademin, jan 2017
+
+### Uppgift
 
 "I denna uppgift ska ni skapa en webbsida för att presentera en fiktiv webbyrå som består av gruppens medlemmar.
 
